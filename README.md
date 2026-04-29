@@ -17,7 +17,9 @@ The Code 8 is a mathematical framework that reveals deep connections between fra
 
 ### ⚖️ License
 
-This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+This code is released under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.  
+Commercial use is prohibited without explicit permission. See the [LICENSE](LICENSE) file for details.
+
 
 ### 🤝 Contributing
 
