@@ -1,7 +1,26 @@
 """
 Pseudo-random number generator based on the Code 8 fractal structure.
 Author: Loïc Bachetta
-License: Creative Commons Attribution 4.0 International
+Licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)
+
+Vous êtes autorisé à :
+
+- Partager — reproduire, distribuer et communiquer le matériel par tous moyens et sous tous formats
+- Adapter — remixer, transformer et créer à partir du matériel
+
+Selon les conditions suivantes :
+
+- Attribution — Vous devez donner le crédit approprié, fournir un lien vers la licence et indiquer si des modifications ont été effectuées. Vous pouvez le faire de manière raisonnable, sans toutefois suggérer que l'offrant vous soutient ou soutient l'utilisation que vous en faites.
+- Pas d’Utilisation Commerciale — Vous n'êtes pas autorisé à utiliser le matériel à des fins commerciales, sauf autorisation expresse de l'auteur.
+- Partage dans les Mêmes Conditions — Si vous remixez, transformez ou créez à partir du matériel, vous devez distribuer votre contribution sous la même licence que l'original.
+
+Pas de restrictions supplémentaires — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser le matériel dans les conditions de la licence.
+
+La licence ne peut pas vous octroyer toutes les permissions nécessaires pour l'utilisation que vous envisagez. Par exemple, d'autres droits (publicité, vie privée, droits moraux) peuvent nécessiter une autorisation supplémentaire.
+
+Pour plus d'informations : https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.fr
+
+© 2026 Loïc Bachetta. Ce code est mis à disposition sous les termes de la licence CC BY-NC-SA 4.0.
 """
 
 import numpy as np
